@@ -1,1 +1,3 @@
 sql-mysteries/
+.venv/
+.DS_Store
